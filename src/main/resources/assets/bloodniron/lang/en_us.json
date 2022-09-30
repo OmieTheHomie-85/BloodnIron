@@ -1,0 +1,16 @@
+{
+  "item.bloodniron.iron_rapier": "Iron Rapier",
+  "item.bloodniron.gold_rapier": "Gold Rapier",
+  "item.bloodniron.diamond_rapier": "Diamond Rapier",
+  "item.bloodniron.netherite_rapier":"Netherite Rapier",
+
+  "item.bloodniron.iron_morningstar": "Iron Morningstar",
+  "item.bloodniron.gold_morningstar": "Golden Morningstar",
+  "item.bloodniron.diamond_morningstar": "Diamond Morningstar",
+  "item.bloodniron.netherite_morningstar": "Netherite Morningstar",
+
+  "item.bloodniron.iron_battle_axe": "Iron Battle Axe",
+  "item.bloodniron.gold_battle_axe": "Golden Battle Axe",
+  "item.bloodniron.diamond_battle_axe": "Diamond Battle Axe",
+  "item.bloodniron.netherite_battle_axe": "Netherite Battle Axe"
+}
