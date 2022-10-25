@@ -5,11 +5,11 @@ import net.minecraft.nbt.CompoundTag;
 public class PlayerLives {
 
     private int lives;
-    private final int MAX_LIVES = 10;
+    private final int MAX_LIVES = 3;
     private final int MIN_LIVES = 0;
 
     public int getLives() {
-        return lives;
+        return this.lives;
     }
 
     public void addLives(int add) {
